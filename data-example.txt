@@ -1,0 +1,60 @@
+vintage_id                                                               163499665
+wine_id                                                                    8105703
+wine_name                                                               Pinot Noir
+wine_type_id                                                                     1
+year                                                                              
+region                                                                    Monterey
+region_id                                                                   1893.0
+country                                                              United States
+winery                                                                      Sovino
+winery_id                                                                 277519.0
+taste_acidity                                                                 None
+taste_fizziness                                                               None
+taste_intensity                                                               None
+taste_sweetness                                                               None
+taste_tannin                                                                  None
+taste_user_count                                                              None
+taste_calculated_count                                                        None
+taste1                                                                        None
+taste1_count                                                                  None
+taste2                                                                        None
+taste2_count                                                                  None
+taste3                                                                        None
+taste3_count                                                                  None
+style_name                                                  Californian Pinot Noir
+style_body                                                                     3.0
+style_body_description                                               Medium-bodied
+acidity                                                                        3.0
+acidity_description                                                           High
+grape_1                                                                 Pinot Noir
+grape_2                                                                       None
+grape_3                                                                       None
+grape_4                                                                       None
+grape_5                                                                       None
+ratings_count_vintage                                                          5.0
+ratings_average_vintage                                                        NaN
+ratings_count_wine                                                             5.0
+ratings_average_wine                                                           NaN
+price                                                                          NaN
+volume_ml                                                                      NaN
+country_rank                                                                  None
+region_rank                                                                   None
+winery_rank                                                                   None
+global_rank                                                                   None
+non_vintage                                                                   None
+alcohol                                                                       14.5
+is_natural                                                                    None
+hidden                                                                        None
+is_first_wine                                                                 None
+img_perfect_url                                                               None
+winemaker                                                                     None
+wine_maker                                                                    None
+expert_reviews                                                                None
+wine_critic_reviews                                                           None
+awards                                                                        None
+img_default_url                  //images.vivino.com/labels/cowrCbohRI2fa3oYY0x...
+ratings_count_vintages_list                                                   None
+ratings_average_vintages_list                                                 None
+year_list                                                                     None
+price_prev                                                                     NaN
+price_avg                                                                      NaN
